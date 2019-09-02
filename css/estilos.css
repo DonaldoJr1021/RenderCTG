@@ -117,11 +117,11 @@ h1, h2, h3, h4, h5, h6{
     font-size: 40px;
     color:rgb(0, 0, 0);
 }
-.cursos__columna{
+.servicios__columna{
     position: relative;
     margin-bottom: 30px;
 }
-.cursos__descripcion{
+.servicios__descripcion{
     position: absolute;
     top: 0;
     left: 0;
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6{
 
 }
 
-.cursos__titulo{
+.servicios__titulo{
     font-size: 25px;
     margin: 5px 0;
 }
@@ -177,7 +177,7 @@ h1, h2, h3, h4, h5, h6{
         font-size: 18px;
         margin: 7px 0;
     }
-    .info, .cursos{
+    .info, .servicios{
         display: flex;
         justify-content: space-between;
         margin-top: -80px;
@@ -192,16 +192,16 @@ h1, h2, h3, h4, h5, h6{
         margin: 6px 0;
     }
 
-    .cursos{
+    .servicios{
         flex-flow: wrap;
-        margin-top: 
+        margin-top: auto;
     }
     .section__titulo{
         width: 100%;
         margin-top: 17%;
         
     }
-    .cursos__columna{
+    .servicios__columna{
         width:49%;
     }
     .footer .social [class^="icon-"] {
@@ -214,7 +214,7 @@ h1, h2, h3, h4, h5, h6{
 .banner__titulo{
     font-size: 50px;
 }
-.cursos__titulo{
+.servicios__titulo{
     font-size: 40px;
 }
 
@@ -246,14 +246,14 @@ h1, h2, h3, h4, h5, h6{
         font-size: 60px;
         
     }
-    .cursos__titulo{
+    .servicios__titulo{
         font-size: 50px;
     }
     .section__titulo{
         font-size: 70px;
         
     }
-  .cursos{
+  .servicios{
       margin-top: -14%;
       width: 76%;
       margin-left: 13%;
